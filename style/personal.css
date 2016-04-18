@@ -1,0 +1,27 @@
+
+#contact{
+	display: block;
+	margin-top: -25px;
+	position: relative;
+}
+#contact #img_qq,
+#contact #img_wechat{
+ 	display:none;
+ 	position:absolute;
+ 	top:-150px;	 
+}
+#mail{
+	color: rgb(28,188,156);
+}
+#c .container #copy{
+	font-size: 16px;
+}
+.title{
+	margin-bottom: 10px;
+}
+#resume{
+	color: #ccc;
+}
+footer .container{
+	text-align: center;
+}
